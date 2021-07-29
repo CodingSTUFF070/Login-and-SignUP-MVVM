@@ -1,0 +1,2 @@
+rootProject.name = "LoginSignUp (MVVM)"
+include ':app'
